@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">🌌 Hello! I'm Seth Tal 🌌</h3>
-<h4 align="center">Aspiring Software Engineer | Seeking entry level programming position</h4>
+<h4 align="center">Aspiring Software Engineer | Seeking Entry-Level Programming Position</h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-C/C++-004283?style=for-the-badge&logo=c">
