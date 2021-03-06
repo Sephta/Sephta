@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 
 <h3 align="center">🌌 Hello! I'm Seth Tal 🌌</h3>
 <h4 align="center">Aspiring Software Engineer | Seeking entry level programming position</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C/C++-Proficient-004283">
+  <img src="https://img.shields.io/badge/CSharp-Expert-290064">
+  <img src="https://img.shields.io/badge/Python-Expert-green">
+  <img src="https://img.shields.io/badge/Unity-Proficient-lightgrey">
+  <img src="https://img.shields.io/badge/HTML/CSS-Expert-orange">
+  <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow">
+</p>
+
 <p align="center">
   <a href="https://sephta.github.io">Portfolio</a> •
   <a href="https://twitter.com/seth_tal">Twitter</a>
