@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://img.shields.io/badge/C/C++-Proficient-004283">
   <img src="https://img.shields.io/badge/CSharp-Expert-290064">
-  <img src="https://img.shields.io/badge/Python-Expert-green">
   <img src="https://img.shields.io/badge/Unity-Proficient-lightgrey">
+  <img src="https://img.shields.io/badge/Python-Expert-green">
   <img src="https://img.shields.io/badge/HTML/CSS-Expert-orange">
   <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow">
 </p>
