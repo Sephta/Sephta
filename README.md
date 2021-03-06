@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Seth Tal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sephta&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Seth Tal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sephta&show_icons=true&title_color=ededed&bg_color=121212&text_color=ededed)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sephta&theme=radical&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sephta&show_icons=true&layout=compact&title_color=ededed&bg_color=121212&text_color=ededed)](https://github.com/anuraghazra/github-readme-stats)
