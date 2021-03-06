@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://img.shields.io/badge/-C/C++-004283?style=for-the-badge&logo=c">
-  <img src="https://img.shields.io/badge/-CSharp-290064?style=for-the-badge&logo=c">
+  <img src="https://img.shields.io/badge/-CSharp-290064?style=for-the-badge&logo=c-sharp">
   <img src="https://img.shields.io/badge/-Unity-181717?style=for-the-badge&logo=unity">
   <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
