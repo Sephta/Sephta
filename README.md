@@ -13,6 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h3 align="center">🌌 Hello! I'm Seth Tal 🌌</h3>
+<h4 align="center">Aspiring Software Engineer | Seeking entry level programming position</h4>
+<p align="center">
+  <a href="https://sephta.github.io">Portfolio</a> •
+  <a href="https://twitter.com/seth_tal">Twitter</a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sephta&show_icons=true&count_private=true&title_color=ededed&bg_color=121212&text_color=ededed"> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sephta&show_icons=true&title_color=ededed&bg_color=121212&text_color=ededed">
