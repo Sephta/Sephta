@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sephta&show_icons=true&count_private=true&title_color=ededed&bg_color=121212&text_color=ededed"> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sephta&show_icons=true&title_color=ededed&bg_color=121212&text_color=ededed">
-</p>
+</p> -->
