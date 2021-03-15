@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">🌌 Hello! I'm Seth Tal 🌌</h3>
+<h3 align="center">🌌 Hello! My name is Seth Tal! 🌌</h3>
 <h4 align="center">Aspiring Software Engineer | Seeking Entry-Level Programming Position</h4>
 
 <p align="center">
