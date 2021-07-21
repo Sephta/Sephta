@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://sephta.github.io">Portfolio</a> •
-  <a href="https://twitter.com/seth_tal">Twitter</a>
+  <a href="https://itch.io/Sephta">itch.io</a>
 </p>
 
 <!-- <p align="center">
