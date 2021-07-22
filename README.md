@@ -25,7 +25,7 @@
 </p> -->
 
 <p align="center">
-  <a href="https://sephta.github.io">Portfolio</a> •
+  <a href="https://sethtal.com">Portfolio</a> •
   <a href="https://sephta.itch.io/">itch.io</a>
 </p>
 
