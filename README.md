@@ -37,7 +37,7 @@
 ---
 
 <p>
-Hard working student at the University of Oregon finishing my Bachelors this summer (Sept 2021) with a major in Computer and Information Science. 2 years of personal web development experience building small scale web applications. 1 year of experience working in ReactJS integrating RESTful APIs into frontend web clients. Proficient in many languages including: C#, C/C++, Python, JavaScript. Avid interest in UI / UX design, as well as Game programming mostly in the Unity game engine. Actively seeking entry level Software Engineer or Frontend Developer roles.
+Recently finished my bachelor's at the University of Oregon with a major in Computer and Information Science. 2 years of personal web development experience building small scale web applications. 1 year of experience working in ReactJS integrating RESTful APIs into frontend web clients. Proficient in many languages including: C#, C/C++, Python, JavaScript. Avid interest in UI / UX design, as well as Game programming mostly in the Unity game engine. Actively seeking entry level Software Engineer or Frontend Developer roles.
 </p>
 
 ---
