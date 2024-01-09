@@ -1,6 +1,6 @@
 <h3 align="center">🌌 Hello! My name is Seth Tal! 🌌</h3>
 
-<h4 align="center">Software Engineer | Full Stack Web Developer</h4>
+<h4 align="center">Software Engineer</h4>
 
 <p align="center">
   <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
