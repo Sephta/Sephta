@@ -37,7 +37,7 @@
 ---
 
 <p>
-With a Bachelor's of Science at the University of Oregon, majoring in Computer and Information Science, I have over 1 year of profesional C++ and Scala experience working with modeling and simulation software, 3 years of personal web development experience building small scale web applications, and 1 year of freelance experience working in ReactJS integrating RESTful APIs into frontend web clients. I am proficient in many languages, most notably: C++, C#, and JavaScript. I also have an avid interest in UI / UX design, as well as Game programming and mod development.
+With a Bachelor's of Science at the University of Oregon, majoring in Computer and Information Science, I have over 2 years of profesional C++ and Scala experience working with modeling and simulation software, 3 years of personal web development experience building small scale web applications, and 1 year of freelance experience working in ReactJS integrating RESTful APIs into frontend web clients. I am proficient in many languages, most notably: C++, C#, and JavaScript. I also have an avid interest in UI / UX design, as well as Game programming and mod development.
 </p>
 
 ---
